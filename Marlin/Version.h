@@ -25,12 +25,12 @@
 // VENDOR VERSION EXAMPLE //
 ////////////////////////////
  
-#define MOD_VERSION "9"
+#define MOD_VERSION "12"
 
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.0.7.2." MOD_VERSION
+#define SHORT_BUILD_VERSION "2.0.7.2 m" MOD_VERSION
  
 /**
  * Verbose version identifier which should contain a reference to the location
